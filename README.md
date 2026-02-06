@@ -6,7 +6,7 @@ I utilized online documentation to get started with creating a visualization usi
 To assist with more granular adjustments, I used Claude to help with syntax. 
 I was able to play around with the colors to make the chart more visually appealing, and overall thought this library was easy to use and manipulate.
 
-![ggplot2](img/ggplot2.png)
+![ggplot2](img/r-ggplot.png)
 
 # d3
 D3 is JavaScript library for data visualization.
